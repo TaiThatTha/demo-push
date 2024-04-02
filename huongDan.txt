@@ -1,1 +1,9 @@
 Tạo một nơi chứa trên github
+Chuột phải chọn bash here
+git init
+git status
+git add .
+git commit -m "your message"
+git remote add origin https"//....
+git push origin master
+
